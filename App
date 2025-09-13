@@ -1,0 +1,3 @@
+# Fire-Safety-Strategy
+git remote add origin https://github.com/CSPDER/Fire-Safety-Strategy.git
+git push -u origin main
